@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\Regex7\Regex7\bin\Debug\net6.0\Regex7.exe
+C:\Users\dell\source\repos\Regex7\Regex7\bin\Debug\net6.0\Regex7.deps.json
+C:\Users\dell\source\repos\Regex7\Regex7\bin\Debug\net6.0\Regex7.runtimeconfig.json
+C:\Users\dell\source\repos\Regex7\Regex7\bin\Debug\net6.0\Regex7.dll
+C:\Users\dell\source\repos\Regex7\Regex7\bin\Debug\net6.0\Regex7.pdb
+C:\Users\dell\source\repos\Regex7\Regex7\obj\Debug\net6.0\Regex7.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Regex7\Regex7\obj\Debug\net6.0\Regex7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Regex7\Regex7\obj\Debug\net6.0\Regex7.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Regex7\Regex7\obj\Debug\net6.0\Regex7.AssemblyInfo.cs
+C:\Users\dell\source\repos\Regex7\Regex7\obj\Debug\net6.0\Regex7.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Regex7\Regex7\obj\Debug\net6.0\Regex7.dll
+C:\Users\dell\source\repos\Regex7\Regex7\obj\Debug\net6.0\refint\Regex7.dll
+C:\Users\dell\source\repos\Regex7\Regex7\obj\Debug\net6.0\Regex7.pdb
+C:\Users\dell\source\repos\Regex7\Regex7\obj\Debug\net6.0\Regex7.genruntimeconfig.cache
+C:\Users\dell\source\repos\Regex7\Regex7\obj\Debug\net6.0\ref\Regex7.dll
