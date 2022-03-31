@@ -8,7 +8,7 @@ namespace Regex6
         static void Main(string[] args)
         {
             Pattern pattern = new Pattern();
-            Console.WriteLine(pattern.ValidatePassword("Abhi"));
+            Console.WriteLine(pattern.ValidatePassword("Agvsdv"));
         }
 
 

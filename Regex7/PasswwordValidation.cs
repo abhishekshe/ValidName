@@ -6,7 +6,7 @@ namespace RegexValidation
 {
     public class Pattern
     {
-        public static string ValidPassword = "(?=.*[0 - 9A - Za - z])";
+        public static string ValidPassword = "(?=.*[0-9A-Za-z])";
 
         public bool ValidatePassword(string Password)
         {
