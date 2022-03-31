@@ -8,7 +8,7 @@ namespace Regex1
         static void Main(string[] args)
         {
             Pattern pattern = new Pattern();
-            Console.WriteLine(pattern.ValidateEmail("abhis.adds@bl.co.in"));
+            Console.WriteLine(pattern.ValidateMobileNo("91 7878636279"));
         }
 
 

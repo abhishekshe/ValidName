@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\source\\repos\\Regex3\\Regex3\\Regex3.csproj",
-      "projectName": "Regex3",
-      "projectPath": "C:\\Users\\dell\\source\\repos\\Regex3\\Regex3\\Regex3.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\source\\repos\\Regex4\\Regex4\\Regex4.csproj",
+      "projectName": "Regex4",
+      "projectPath": "C:\\Users\\dell\\source\\repos\\Regex4\\Regex4\\Regex4.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\source\\repos\\Regex3\\Regex3\\obj\\",
+      "outputPath": "C:\\Users\\dell\\source\\repos\\Regex4\\Regex4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
