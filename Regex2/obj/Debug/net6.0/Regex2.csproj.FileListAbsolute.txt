@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\Regex2\Regex2\bin\Debug\net6.0\Regex2.exe
+C:\Users\dell\source\repos\Regex2\Regex2\bin\Debug\net6.0\Regex2.deps.json
+C:\Users\dell\source\repos\Regex2\Regex2\bin\Debug\net6.0\Regex2.runtimeconfig.json
+C:\Users\dell\source\repos\Regex2\Regex2\bin\Debug\net6.0\Regex2.dll
+C:\Users\dell\source\repos\Regex2\Regex2\bin\Debug\net6.0\Regex2.pdb
+C:\Users\dell\source\repos\Regex2\Regex2\obj\Debug\net6.0\Regex2.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Regex2\Regex2\obj\Debug\net6.0\Regex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Regex2\Regex2\obj\Debug\net6.0\Regex2.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Regex2\Regex2\obj\Debug\net6.0\Regex2.AssemblyInfo.cs
+C:\Users\dell\source\repos\Regex2\Regex2\obj\Debug\net6.0\Regex2.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Regex2\Regex2\obj\Debug\net6.0\Regex2.dll
+C:\Users\dell\source\repos\Regex2\Regex2\obj\Debug\net6.0\refint\Regex2.dll
+C:\Users\dell\source\repos\Regex2\Regex2\obj\Debug\net6.0\Regex2.pdb
+C:\Users\dell\source\repos\Regex2\Regex2\obj\Debug\net6.0\Regex2.genruntimeconfig.cache
+C:\Users\dell\source\repos\Regex2\Regex2\obj\Debug\net6.0\ref\Regex2.dll
