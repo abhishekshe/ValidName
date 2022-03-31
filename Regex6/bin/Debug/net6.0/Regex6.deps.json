@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ValidPassword/1.0.0": {
+      "Regex6/1.0.0": {
         "runtime": {
-          "ValidPassword.dll": {}
+          "Regex6.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ValidPassword/1.0.0": {
+    "Regex6/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
